@@ -1,5 +1,5 @@
 {
-  "justNow": "ahora mismo",
+  "justNow": "justo ahora",
   "secondAgo": "hace un segundo",
   "secondAgo2": "hace {num} segundos",
   "minuteAgo": "hace un minuto",
@@ -25,19 +25,19 @@
   "headerNavSignUp": "Registrarse",
   "headerNavQuicklist": "Lista rápida",
   "headerNavHelp": "Ayuda",
-  "headerNavSignIn": "Acceder",
+  "headerNavSignIn": "Iniciar Sesión",
 
   "views": "{num} reproducciones",
   
   "headerMenuHome": "Inicio",
-  "headerMenuVideos": "Vídeos",
+  "headerMenuVideos": "Videos",
   "headerMenuChannels": "Canales",
   "headerMenuCommunity": "Comunidad",
 
   "headerBarSearch": "Buscar",
   "headerBarSearchSettings": "Opciones avanzadas",
   "headerBarUpload": "Subir",
-  "headerBarUploadFile": "Archivo Local",
+  "headerBarUploadFile": "Subir archivo",
   "headerBarUploadCapture": "Desde Webcam",
 
   "headerNavSignUpTitle": "Registrarse en VidLii",
@@ -107,7 +107,7 @@
   "footerHeader6": "También conocido como el encabezado Cosmic Panda Beta.",
   "footerHeader61": "Tiempos de carga de 2 minutos no incluídos.",
   "footerHeaderLoggedIn": "Al tener una sesión iniciada, esta configuración se ha guardado en tu perfil.",
-  "footerHeaderLoggedOut": "Al no tener una sesión iniciada, esta configuración se ha guardado en tus cookies.",
+  "footerHeaderLoggedOut": "Al no tener una sesión iniciada, esta configuración se guardará en tus cookies.",
   
   "footerAbout": "Acerca de VidLii",
   "footerBlog": "Blog",
